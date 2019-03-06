@@ -1,0 +1,18 @@
+<dict>  
+    <key>begin</key>
+    <string>開始</string>
+    <key>record</key>
+    <string>記録</string>
+    <key>exit</key>
+    <string>终了</string>
+    <key>die</key>
+    <string>死亡</string>
+    <key>back</key>
+    <string>戻る</string>
+    <key>win</key>
+    <string>勝利</string>
+    <key>new</key>
+    <string>ニューレコード</string>
+    <key>cheat</key>
+    <string>無敵</string>
+</dict>
